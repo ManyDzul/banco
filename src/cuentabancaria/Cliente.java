@@ -7,7 +7,7 @@ package cuentabancaria;
 
 /**
  *
- * @author Jesus
+ * @author Manuel
  */
 public class Cliente {
     private String nombre;
@@ -20,7 +20,7 @@ public class Cliente {
    public Cliente ( String nombre, String apellido){
         this.nombre = nombre;
         this.apellido = apellido;
-  public void setnombre(String nombre){
+  public void Setnombre(String nombre){
        this.nombre=nombre;
   }
   public String getnombre(){

@@ -7,7 +7,7 @@ package cuentabancaria;
 
 /**
  *
- * @author Jesus
+ * @author Manuel
  */
 public class CuentaDeAhorro extends CuentaBancaria{
    

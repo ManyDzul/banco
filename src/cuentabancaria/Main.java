@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jesus 
+ * @author Manuel 
  */
 public class Main {
 
